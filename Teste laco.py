@@ -7,4 +7,4 @@ for recebe in range(2):
     lista.append(idade)
     lista.append(profi)
 
-print(lista6554)
+print(lista)
